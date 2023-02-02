@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\Users\Admin\Documents\Atmel Studio\7.0\PB2PDYN\PB2PDYN\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\Atmel\ATmega_DFP\2.0.401\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Admin\Documents\Atmel Studio\7.0\PB2PDYN\PB2PDYN\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\Atmel\ATmega_DFP\2.0.401\avrasm\inc\m32def.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\Atmel\ATmega_DFP\2.0.401\avrasm\inc\M32DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Admin\Documents\Atmel Studio\7.0\PB2PDYN\PB2PDYN\Debug\PB2PDYN.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>PB2PDYN.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>PB2PDYN.map</FILE>
+  <FILE>PB2PDYN.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <AGAIN><FILE>C:\Users\Admin\Documents\Atmel Studio\7.0\PB2PDYN\PB2PDYN\main.asm</FILE><LINE>14</LINE></AGAIN>
+  <OVER><FILE>C:\Users\Admin\Documents\Atmel Studio\7.0\PB2PDYN\PB2PDYN\main.asm</FILE><LINE>19</LINE></OVER>
+  <DELAY_1S><FILE>C:\Users\Admin\Documents\Atmel Studio\7.0\PB2PDYN\PB2PDYN\main.asm</FILE><LINE>24</LINE></DELAY_1S>
+  <L2><FILE>C:\Users\Admin\Documents\Atmel Studio\7.0\PB2PDYN\PB2PDYN\main.asm</FILE><LINE>25</LINE></L2>
+  <L3><FILE>C:\Users\Admin\Documents\Atmel Studio\7.0\PB2PDYN\PB2PDYN\main.asm</FILE><LINE>26</LINE></L3>
+  <L4><FILE>C:\Users\Admin\Documents\Atmel Studio\7.0\PB2PDYN\PB2PDYN\main.asm</FILE><LINE>27</LINE></L4>
+ </LABELS>
+</ASSEMBLER_INFO>
